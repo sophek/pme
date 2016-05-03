@@ -99,7 +99,7 @@
                                                 Grief care : {{$visit->EmotionalSpirtual->grief_care}} hours <br />
                                                 Crisis care : {{$visit->EmotionalSpirtual->crisis_care}} hours <br />
                                                 End of life care : {{$visit->EmotionalSpirtual->end_of_life_care}} hours <br />
-                                                Visitation : {{$visit->EmotionalSpirtual->crisis_care}} hours <br />
+                                                Crisis care : {{$visit->EmotionalSpirtual->crisis_care}} hours <br />
                                                 
                                                 
                                             </td>
